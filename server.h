@@ -10,7 +10,7 @@
 #include <sys/shm.h>
 #include <sys/wait.h>
 #include <errno.h>
-
+aaaa
 #pragma warning
 
 #define MaxPipeNum 1000
